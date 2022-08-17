@@ -8,7 +8,7 @@ Project 4
 Project 5
 PoE (Porttfolio of evidence/exam)
 
-## Brancing stategy 
+## Branching stategy 
 There is going to be a main branch called master, and 6 other suppoting branches as metioned above. the repositories metioned will be will be created and linked to the repositories to be created. Work and coding will be done on these reppositories and changes will be saved to to branches mentioned above. that way the branches will only contain the final perfect work with no bugs and mistakes 
 
 ## Use of .gitignore 
